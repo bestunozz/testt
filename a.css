@@ -1,0 +1,42 @@
+body{
+    background-color:khaki;
+    font-family: 'Metal Mania', cursive
+}
+h1{ 
+    position: relative;
+    left: 375px;
+    line-height: 0;
+    color: #303960; font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+h3:hover{
+    background-color: orange;
+    font-family: 'Metal Mania', cursive;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: grey;
+    border-width: 5px;
+    width: 80%;
+    
+}
+img:hover{
+    background-color: khaki;
+    height: 80px;
+}
+.yakam{
+    position: relative;
+    left: 250px;
+    /*border-radius: 100%;*/
+    background-color: orangered;
+    height: 80px;
+}
+.dwam{ 
+    position: relative;
+    left: 500px;
+    /*border-radius: 100%;*/
+    background-color: orangered;
+    height: 80px;
+}
